@@ -9,7 +9,7 @@
     FluidDB is a dynamic object storage database. 🦀
   </p>
   <p align="center">
-    <a href="https://github.com/thisisclint21/fluid-db/actions?workflow=Build"><img src="https://github.com/thisisclint21/fluid-db/workflows/Build/badge.svg" /></a>
+    <a href="https://github.com/thisisclint21/fluid-db/actions/workflows/build.yml"><img src="https://github.com/thisisclint21/fluid-db/actions/workflows/build.yml/badge.svg" /></a>
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Made%20With-Rust-dea584" /></a>
     <a href="https://github.com/thisisclint21/fluid-db/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" /></a>
     <a href="https://discord.gg/mZz67M6"><img src="https://img.shields.io/badge/Discord-Server-7289DA" /></a>
