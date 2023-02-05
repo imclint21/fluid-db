@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Lucid is a high performance, secure and distributed key-value store accessible through an HTTP API, that is built around a modular configuration to enable features on the fly, like persistence, encryption SSE, compression, replication, and more.
+FluidDB is a simple database engine that handles the storage of dynamic objects. It is possible to store server logs as well as mp3 files. 
 
 [Read the complete Medium article →](https://medium.com/@clint21/lucid-an-http-key-value-store-c0e734586e26)
 
