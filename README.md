@@ -18,7 +18,7 @@
 
 ## Introduction
 
-FluidDB is a simple database engine that handles the storage of dynamic objects. It is possible to store server logs as well as mp3 files. 
+FluidDB is a simple database engine that handles the storage of dynamic objects. It is possible to store server logs as well as mp3 files.  To do this, the user must define a model for each collection as well as a serializer / deserializer.
 
 [Read the complete Medium article →](https://medium.com/@clint21/lucid-an-http-key-value-store-c0e734586e26)
 
