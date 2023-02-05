@@ -22,15 +22,7 @@ FluidDB is a simple database engine that handles the storage of dynamic objects.
 
 [Read the complete Medium article →](https://medium.com/@clint21/lucid-an-http-key-value-store-c0e734586e26)
 
-## Getting Started
-
-Get the latest binary from the [releases](https://github.com/lucid-kv/lucid/releases) page and run these commands:
-
-```
-$ ./lucid init
-$ ./lucid server
-```
-
+## Proof of Concept
 
 This is a simple proof-of-concept written in c#:
 
